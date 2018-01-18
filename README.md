@@ -1,8 +1,8 @@
 # rpi-streaming
-Set of scripts (python? bash?) for automating streaming with a RPi3 to youtube. 
-Read settings/schedule from some config file.
-Automatically create youtube live events using the Youtube API.
-Create youtube playlist and add live events to it as they are created
+Set of scripts (python? bash?) for automating streaming with a RPi3 to youtube.  
+Read settings/schedule from some config file.  
+Automatically create youtube live events using the Youtube API.  
+Create youtube playlist and add live events to it as they are created  
 
 # Hardware
 RPi3 with case
