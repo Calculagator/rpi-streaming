@@ -10,11 +10,13 @@ Create youtube playlist and add live events to it as they are created
 * ? Maybe some other external mic if it's not too difficult to mount
 * ? Big battery for remote abilities
 * ? LCD for status
+* ? better wifi chip/antenna
 
 # Pre-reqs
 * Some sort of minimal linux
 * Cron or some sort of scheduler
 * ffmpeg
+* v4l2
 * sshd -at least until things work without it
 
 # Future ideas
